@@ -1,0 +1,2 @@
+EMP_ID,NAME,Email,Basic_Salary,Allowances,Deductions,Total
+Emp_001,Sachith Hirantha Silva,abc@gmail.com,10000.0,[com.mpcs.Model.SalaryAllowances@65da2a7a, com.mpcs.Model.SalaryAllowances@75c0f20, com.mpcs.Model.SalaryAllowances@77fae5e0],[com.mpcs.Model.Deductions@2bc74cc5, com.mpcs.Model.Deductions@1a2f42e1],15200.0
